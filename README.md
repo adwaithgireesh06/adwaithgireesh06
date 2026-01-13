@@ -25,3 +25,10 @@
 [![](https://visitcount.itsvg.in/api?id=adwaithgireesh06&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<!--Snake--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamkarthik2004/iamkarthik2004/output/snake-dark.svg" alt="snake animation"/>
+</p>
+
